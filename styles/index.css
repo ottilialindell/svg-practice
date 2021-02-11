@@ -1,0 +1,41 @@
+body {
+    background-color: #c4c4b0;
+}
+
+main {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-family: 'Dancing Script', cursive;
+    color: #626258;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.direct {
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    color: #626258;
+    font-size: 14px; 
+    margin-left: 50px;
+}
+
+.svg-tag {
+    margin-bottom: 20px;
+}
